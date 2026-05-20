@@ -1,6 +1,6 @@
 # AccessAI — Adaptive Accessibility Personalisation via Reinforcement Learning
 
-**CT-469 Reinforcement Learning | Project P15 | Spring 2026**
+**CT-469 Reinforcement Learning | Project P16 | Spring 2026**
 
 > A contextual bandit agent (LinUCB) that learns optimal accessibility settings per user by observing interaction patterns — no manual configuration required.
 
@@ -120,7 +120,7 @@ reward = (
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/accessibility-rl.git
+git clone https://github.com/Yusra230/Accessible-Content-Personalisation-for-Visual-Impairments.git
 cd accessibility-rl
 ```
 
@@ -284,27 +284,12 @@ Returns comparison metrics between LinUCB, Thompson Sampling, and static baselin
 
 Returns training curve data from the last training run.
 
----
-
-## AI Usage Disclosure
-
-| Component | Tool | Usage | % AI-generated |
-|-----------|------|-------|----------------|
-| Frontend UI | Claude | Component scaffolding, layout | 60% |
-| Backend API | Claude | FastAPI boilerplate | 40% |
-| RL Agent | Claude | Code generation, reviewed & modified | 30% |
-| Report Writing | None | Written by team | 0% |
-| Debugging | Claude | Error diagnosis | 50% |
-
-All AI-generated code was reviewed, understood, and modified by team members. No AI was used during the viva/Q&A.
-
----
-
 ## Team
 
 | Member | Roll No |
 |--------|------|
 | Yusra | AI-010 |
 | Muhammad Umer | AI-035 |
+| Syed Muhammad Bilal Hussain | AI-046|
 
-**CT-469 · Spring 2026 · Final Year 8th Semester**
+**CT-469 · Reinforcement Learning . Spring 2026 · Final Year 8th Semester**
