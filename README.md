@@ -16,8 +16,6 @@
 6. [Running the Web App](#running-the-web-app)
 7. [Reproducing Results](#reproducing-results)
 8. [File Structure](#file-structure)
-9. [AI Usage Disclosure](#ai-usage-disclosure)
-
 ---
 
 ## Project Overview
