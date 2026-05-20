@@ -1,7 +1,5 @@
 /**
  * popup.js — AccessAI Browser Extension
- * CT-469 Project P15
- *
  * Connects to the local FastAPI backend (localhost:8000) to get
  * RL-recommended accessibility settings and applies them to the active tab.
  */

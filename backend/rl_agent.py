@@ -1,6 +1,5 @@
 """
 LinUCB Contextual Bandit Agent for Accessibility Personalisation
-CT-469 Reinforcement Learning — Project P15
 
 Algorithm: LinUCB (Disjoint model) per user
 Comparison: Thompson Sampling Contextual Bandit

@@ -1,6 +1,5 @@
 /**
  * content.js — AccessAI Browser Extension Content Script
- * CT-469 Project P15
  *
  * Injected into every page. Tracks real user interaction signals:
  * scroll speed, misclick rate, zoom changes, time on page.

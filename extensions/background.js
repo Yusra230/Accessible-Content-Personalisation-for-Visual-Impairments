@@ -1,6 +1,5 @@
 /**
  * background.js — AccessAI Extension Background Service Worker
- * CT-469 Project P15
  *
  * Receives user stats from content.js and stores for popup to use.
  */

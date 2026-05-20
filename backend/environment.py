@@ -1,6 +1,5 @@
 """
 environment.py — Custom Accessibility RL Environment
-CT-469 Project P15
 
 Models the web accessibility personalisation problem as a structured
 contextual bandit environment. Reproducible with a fixed random seed.

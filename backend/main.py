@@ -1,5 +1,5 @@
 """
-FastAPI Backend — CT-469 Project P15
+FastAPI Backend 
 Serves accessibility recommendations via REST API.
 Connects RL agent to the frontend website.
 """

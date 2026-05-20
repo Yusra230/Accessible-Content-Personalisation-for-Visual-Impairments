@@ -1,5 +1,5 @@
 """
-Training Script — CT-469 Project P15
+Training Script 
 Trains LinUCB and Thompson Sampling agents using the AccessibilityEnv environment.
 Logs metrics per episode, saves model weights, outputs training_metrics.json.
 
